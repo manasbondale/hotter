@@ -1,0 +1,6 @@
+# example hotterignore file
+# comments start with # at start of line
+*.txt
+*~
+*.swp
+*.swo
