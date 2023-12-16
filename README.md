@@ -19,7 +19,7 @@
 - `git clone `
 - `cd `
 - `mv hotter.sh hotter`
-- `chmod +x hotter.sh`
+- `chmod +x hotter`
 - `export PATH=$PATH:$(pwd)`
  
 
