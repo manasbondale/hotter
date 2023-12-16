@@ -24,3 +24,5 @@
 
 ## Here's me using `hotter` to run my discord bot
 
+![image](https://github.com/mograking/hotter/assets/116985244/a32af7df-b9fb-4d56-9419-5a192a17162b)
+
