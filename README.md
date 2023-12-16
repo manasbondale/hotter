@@ -1,6 +1,6 @@
-# Hot reload anything!
+# Auto-restart on file changes 
 
-## Hotter is a command line tool that lets you hot reload any command
+## Hotter is a command line tool that lets you auto-restart any command if files in the directory change
 
 ## How to use:
 
@@ -8,7 +8,7 @@
 
 2. For example `hotter python hello_world.py`.
 
-3. Hotter will reload your process if any file in the CWD changes.
+3. Hotter will restart your process if any file in the CWD changes.
 
 4. You can add files/patterns to ignore for change checking in a file called `.hotterignore` in the same directory where you executed `hotter`.
 
