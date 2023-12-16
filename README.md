@@ -22,4 +22,6 @@
 - `chmod +x hotter`
 - `export PATH=$PATH:$(pwd)`
 
+## Here's me using hotter to run my discord bot
+
 ![image](https://github.com/mograking/hot-reload-anything/assets/116985244/21085d4c-ce7a-49a8-9d79-b1cb5b1e32a1)
