@@ -1,5 +1,5 @@
-# Auto restart any command upon file changes in working directory (with ignoring of files that match glob patterns)
-**Hotter: Automatic Command Relauncher**
+# Auto restart any process upon file changes in working directory (with ignoring of files that match glob patterns)
+**Hotter: Automatic Process Relauncher**
 
 ![Hotter Logo](hotter_logo.png)
 
